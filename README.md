@@ -1,5 +1,6 @@
 # vendor
 https://github.com/GwapTeam/vendor
+今後全てのsubmoduleとしての取り込みがなくなり次第削除します!!
 
 ## Overview
 Submodule of gakken educational 
